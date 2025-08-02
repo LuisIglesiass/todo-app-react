@@ -39,3 +39,5 @@ Clone the repo:
 git clone https://github.com/your-username/focuslist.git
 cd focuslist
 ```
+
+Developed by **Luis Iglesias**
